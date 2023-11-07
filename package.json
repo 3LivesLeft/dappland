@@ -22,11 +22,11 @@
     "next-themes": "^0.2.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "starknet": "^5.18.0",
+    "starknet": "^5.19.5",
     "starknetkit": "^1.0.12",
     "styled-components": "^5.3.5",
     "swiper": "^8.3.2",
-    "zustand": "^4.1.1"
+    "zustand": "^4.4.6"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
